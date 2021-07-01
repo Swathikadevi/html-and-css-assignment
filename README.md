@@ -9,9 +9,7 @@
           background-color:yellow;
         }
       </style>
-      
- 
-  </head>
+ </head>
   <body>
     <div style="background-color:grey;height:100vh;width:100%">
       <h2 style="text-align:center;">This is my Assignment-2</h2>
